@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cann-code
 - 🌱 I’m currently learning :python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reachout email: joshikanika49@gmail.com
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:learner
